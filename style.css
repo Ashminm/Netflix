@@ -107,7 +107,7 @@ section .sm-2 h4{
     margin: 0 8px 0 0;
 }
 section .sm > h4 {
-    margin: 10px 0 0 10px;
+    margin: 10px 0 0 13px;
 }
 .C__2::-webkit-scrollbar{
     display: none;
@@ -116,6 +116,7 @@ section .sm > h4 {
     overflow-x: scroll;
     overflow-y: hidden;
     cursor: pointer;
+    margin: 0 0 0 10px;
 }
 .ca__rd:hover{
     transform: scale(1.20);
@@ -148,7 +149,7 @@ section .sm > h4 {
 .slide-button:hover{
     transform: scale(1.30);
     transition: 500ms;
-    color: white;
+    color: red;
     background-color: rgb(24, 24, 24);
 }
 .s__style{
@@ -214,9 +215,9 @@ section .sm > h4 {
         font-size: 10px;
     }
     .slide-button{
-        width: 25px;
-        height: 25px;
-        font-size: 1.2rem;
+        width: 30px;
+        height: 30px;
+        font-size: 1.4rem;
     }
     .slide-button:hover{
         transform: scale(1.20);
@@ -238,7 +239,7 @@ section .sm > h4 {
     section .sm-2 h4{
         display: block;
         font-size: 16px;
-        margin: 10px 0 6px 10px;
+        margin: 10px 0 6px 13px;
 
     }
     .img__desk_a_sm .l_i{
@@ -253,7 +254,7 @@ section .sm > h4 {
         left: 41px;
     }
     .sm-2 .over_text h1{
-        font-size: 20px;
+        font-size: 25px;
     }
     .sm-2 .over_text .over_btn button{
         font-size: 10px;
@@ -262,7 +263,7 @@ section .sm > h4 {
         background-color: #fff;
     }
     .c__r__sm .ca__rd{
-        width: 8rem;
+        width: 10rem;
     } 
     footer > div{
     display: none;
@@ -336,7 +337,7 @@ section .sm > h4 {
         display: none;
     }
     .sm-2 .over_text .over_btn .b_1{
-        width: 55%;
+        width: 30%;
         padding: 7px 0;
         font-size: 9px;
         background-color: red;
